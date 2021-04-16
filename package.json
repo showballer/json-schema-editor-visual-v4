@@ -101,5 +101,5 @@
     "demo": "NODE_ENV=production ykit pack -m",
     "start": "ykit s -p 8082"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
