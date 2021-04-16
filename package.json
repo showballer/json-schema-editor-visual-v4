@@ -1,6 +1,6 @@
 {
-  "_from": "json-schema-editor-visual@^1.1.1",
-  "_id": "json-schema-editor-visual@1.1.1",
+  "_from": "json-schema-editor-visual-v4@^1.0.0",
+  "_id": "json-schema-editor-visual-v4@^1.0.0",
   "_inBundle": false,
   "_integrity": "sha512-Zaji4E1Vt5GvVLRhErF/le0t9xWDnuwLNWhFwMZa/2gYpoWjzt0HPQrizmVaY/Zq4Mtk9mHDYpjME3FANDg74w==",
   "_location": "/json-schema-editor-visual",
@@ -46,9 +46,9 @@
   "_requested": {
     "type": "range",
     "registry": true,
-    "raw": "json-schema-editor-visual@^1.1.1",
-    "name": "json-schema-editor-visual",
-    "escapedName": "json-schema-editor-visual",
+    "raw": "json-schema-editor-visual-v4@^1.0.0",
+    "name": "json-schema-editor-visual-v4",
+    "escapedName": "json-schema-editor-visual-v4",
     "rawSpec": "^1.1.1",
     "saveSpec": null,
     "fetchSpec": "^1.1.1"
@@ -58,7 +58,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/json-schema-editor-visual/-/json-schema-editor-visual-1.1.1.tgz",
   "_shasum": "9a9e510ad1da23c866ba631828d7fe9b3c08dc31",
-  "_spec": "json-schema-editor-visual@^1.1.1",
+  "_spec": "json-schema-editor-visual-v4@^1.0.0",
   "_where": "/Users/yuanyun/workspace/web/2021/vision-algo-store-web",
   "bundleDependencies": false,
   "dependencies": {
@@ -95,11 +95,11 @@
   },
   "license": "MIC",
   "main": "package/index.js",
-  "name": "json-schema-editor-visual",
+  "name": "json-schema-editor-visual-v4",
   "scripts": {
     "build": "NODE_ENV=production webpack",
     "demo": "NODE_ENV=production ykit pack -m",
     "start": "ykit s -p 8082"
   },
-  "version": "1.1.1"
+  "version": "1.0.0"
 }
